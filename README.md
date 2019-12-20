@@ -4,4 +4,6 @@ This project was to build a RayTracer in C++ from the ground up using only the G
 
 Some starter code was given, but most of the functionality (lighting calculations, ray calculations, quadric shape calculations, reflections, shadows) was written by me.
 
+The final output of my program can be seen by opening the final_pic.png file
+
 To run, you must have Microsoft Visual Studio 2017 or later. Open the .sln file with visual studio and click run (you will get better performance running in release mode instead of debug mode).
